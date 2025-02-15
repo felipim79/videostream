@@ -6,7 +6,7 @@
         "pytgcalss"
     ],
     "repository": "https://github.com/felipim79/videostream/blob/main/app.json",
-    "success_url": "https://telegram.dog/lntechnical",
+    "success_url": "https://www.telegram.org",
     "env": {
         "CHAT": {
             "description": "Channel or Group user Name With @",
